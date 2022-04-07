@@ -1,6 +1,13 @@
 ### Hi there 👋
 
 
+#Skills and Experience
+* 💻 Java Spring
+* 💻 NodeJs
+* 💻 Html,Css,JavaScript
+* ⚛️ React
+* 🅰️ Angular
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omergocmen&show_icons=true&theme=radical)
 
