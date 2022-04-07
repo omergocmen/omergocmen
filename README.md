@@ -5,9 +5,6 @@
 <br>
 
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omergocmen&theme=algolia" alt="omergocmen"  /></p>
-
 
 ## 🛠️ My Skills
 
@@ -107,7 +104,7 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="mailto:omer_gocmen68@outlook.com"><img src="https://img.icons8.com/ios/344/apple-mail.png" alt="Mail"/></a>
+	<a href="mailto:omer_gocmen68@outlook.com"><img src="https://img.icons8.com/bubbles/50/000000/mail.png" alt="Mail"/></a>
 	<a href="https://github.com/omergocmen"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/%C3%B6mer-g%C3%B6%C3%A7men-43a353227/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/omerrgcmn/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
