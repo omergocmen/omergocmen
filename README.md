@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Ömer Göçmen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Ömer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <hr/>
 <h4 align="center">I'm currently learning Java Spring & React and I'm improving myself on projects related to web</h4>
